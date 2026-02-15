@@ -1,0 +1,37 @@
+commit 315b8287ef8b0058e456e7b3f6ce5571d0305223
+Author: dylansoriano <djs246@njit.edu>
+Date:   Sun Feb 15 17:54:28 2026 -0500
+
+    Revert "new commit"
+    
+    This reverts commit 554e56b50f534b160d6f862402febae4284a5b35.
+
+commit 554e56b50f534b160d6f862402febae4284a5b35
+Author: dylansoriano <djs246@njit.edu>
+Date:   Sun Feb 15 17:53:55 2026 -0500
+
+    new commit
+
+commit 848ddfee9c8f5ab08396f8af6b02dab6fd2058d9
+Author: dylansoriano <djs246@njit.edu>
+Date:   Sun Feb 15 17:50:57 2026 -0500
+
+    new files
+
+commit e5b06de40945c0b203bca49a14a2e9423340ea76
+Author: dylansoriano <djs246@njit.edu>
+Date:   Sun Feb 15 16:43:21 2026 -0500
+
+    Initial Starting Point of the repo (with system files)
+
+commit 8db69e95a47a820aab8b077e6a25bce3e2baa305
+Author: dylansoriano <djs246@njit.edu>
+Date:   Sat Feb 14 17:12:11 2026 -0500
+
+    New change
+
+commit 130cea0a969f1caddd52e6caed2a6a38be073ed3
+Author: dylansoriano <djs246@njit.edu>
+Date:   Sat Feb 14 17:09:50 2026 -0500
+
+    Initial Starting Point of the repo
